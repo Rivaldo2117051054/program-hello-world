@@ -1,5 +1,5 @@
 #include <iostream>
-//library 
+//library iostream
 using namespace std;
 
 int main(){//fungsi utama
